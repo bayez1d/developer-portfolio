@@ -36,3 +36,37 @@ h1 {
   color: rgb(255, 98, 71);
   background-image: url(images/dream-bg.png);
 }
+.me {
+  color: rgb(255, 98, 71);
+}
+.me-mini {
+  color: rgb(255, 151, 113);
+}
+.ins {
+  color: rgb(0, 141, 206);
+}
+.ins-mini {
+  color: rgb(95, 218, 255);
+}
+.about-me-info {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 20px;
+  box-shadow: 10px 10px 40px gray;
+}
+.about-me-info-2 {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  border-left: 7px solid rgb(0, 153, 255);
+}
+.about-me-info-1 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  border-left: 7px solid rgb(255, 191, 71);
+}
+footer p {
+  text-align: center;
+}
