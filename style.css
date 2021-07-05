@@ -8,7 +8,7 @@ h1 {
 .pink {
   color: rgb(214, 62, 88);
 }
-section {
+.flex-container {
   display: flex;
   margin-bottom: 150px;
 }
